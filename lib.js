@@ -13,8 +13,3 @@ function rectangleArea(a, b) {
 function isPalindrome(str) {
     return str.toLowerCase() === str.toLowerCase().split('').reverse().join('');
 }
-
-console.log(square(5));
-console.log(fahrenheit(60));
-console.log(rectangleArea(5, 9));
-console.log(isPalindrome('Bob'));

@@ -1,5 +1,5 @@
 function square(n) {
-    return n*n;
+    return n * n;
 }
 
 function fahrenheit(celsius) {

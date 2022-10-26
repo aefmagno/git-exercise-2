@@ -1,17 +1,27 @@
 {
   "name": "git-exercise-2",
   "version": "1.0.0",
-  "description": "JavaScript and NPM modules",
+  "description": "",
   "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aefmagno/git-exercise-2.git"
   },
   "keywords": [],
-  "author": "Aaron Magno <aaron.magno@siteminder.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aefmagno/git-exercise-2/issues"

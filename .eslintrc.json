@@ -16,7 +16,7 @@
     "rules": {
         "semi": ["error", "never"],
         "no-console": "off",
-        "import/etensions": ["error", "ignorePackages"]
+        "import/extensions": ["error", "ignorePackages"]
     }
 }
 

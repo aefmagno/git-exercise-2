@@ -1,1 +1,1 @@
-# git-exercise-2
+This exercise imports and exports ESM modules
